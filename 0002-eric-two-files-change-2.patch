@@ -1,0 +1,31 @@
+From 080bc3fdce46cafa1547c09ffe77b2f257bfb1b4 Mon Sep 17 00:00:00 2001
+From: rickygeeman <ricky@rickysquid.org>
+Date: Mon, 5 Jul 2021 20:32:02 -0800
+Subject: [PATCH 2/3] eric two files change 2
+
+---
+ CHANGES | 1 +
+ COPYING | 1 +
+ 2 files changed, 2 insertions(+)
+
+diff --git a/CHANGES b/CHANGES
+index 3e2cd9947..17e517854 100644
+--- a/CHANGES
++++ b/CHANGES
+@@ -1,3 +1,4 @@
++(eric) changes...
+ See https://curl.se/changes.html for the edited and human readable online
+ version of what has changed over the years in different curl releases.
+ 
+diff --git a/COPYING b/COPYING
+index 48f144758..c1ad91a29 100644
+--- a/COPYING
++++ b/COPYING
+@@ -1,3 +1,4 @@
++(eric) stuff...
+ COPYRIGHT AND PERMISSION NOTICE
+ 
+ Copyright (c) 1996 - 2021, Daniel Stenberg, <daniel@haxx.se>, and many
+-- 
+2.20.1
+
